@@ -1,0 +1,58 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - M13Checkbox (3.4.0)
+  - ObjectMapper (3.5.1)
+  - RxAlertViewable (0.8.4):
+    - RxCocoa (~> 5)
+    - RxSwift (~> 5)
+  - RxCocoa (5.0.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.1)
+  - SDCAlertView (10.0)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8)
+  - AlamofireObjectMapper
+  - M13Checkbox
+  - ObjectMapper
+  - RxAlertViewable
+  - RxCocoa
+  - RxSwift
+  - SDCAlertView
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - M13Checkbox
+    - ObjectMapper
+    - RxAlertViewable
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SDCAlertView
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  M13Checkbox: 6f59404540ac98ba83a3d1afac335895a40c6a5d
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  RxAlertViewable: 0dbe70c15bd258fba5fadb8418c5401dca228b15
+  RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
+  RxRelay: 89d54507f4fd4d969e6ec1d4bd7f3673640b4640
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+  SDCAlertView: 5fbc48cae6d7bf9781097e3f27883924ef3b922c
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 5b8b84860ba1194e67be9b2e07b53a1023ada5e4
+
+COCOAPODS: 1.8.4
