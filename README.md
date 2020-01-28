@@ -18,3 +18,6 @@ Demo app created with:
 * Using Coordinator Pattern for navigation between controllers
 * Using MVVM Architecture
 * Clean code
+
+> - This project has also listed under RxSwift Community Projects
+>   - https://community.rxswift.org/
